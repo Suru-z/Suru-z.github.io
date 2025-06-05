@@ -3,7 +3,6 @@
 </p>
 
 # Suru-z.github.io
-# 👋 Hello, I'm Zou!
 
 欢迎来到我的 GitHub 主页！
 
