@@ -3,7 +3,7 @@
 </p>
 
 # Suru-z.github.io
-# 👋 Hello, I'm Zouhh!
+# 👋 Hello, I'm Zou!
 
 欢迎来到我的 GitHub 主页！
 
@@ -21,7 +21,25 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-## 🐾 访客统计
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+## 📊 GitHub 活动统计 & 访客记录
+
+<p align="center">
+
+  <!-- 🎯 访客计数器（清新绿色 + 白底） -->
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuru-z&count_bg=%23A0D468&title_bg=%235DC2D9&icon=github.svg&icon_color=%23ffffff&title=Visitors&edge_flat=false"/>
+
+  <br><br>
+
+  <!-- 💡 总体活动统计卡片（清新主题） -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suru-z&theme=vue" />
+
+  <!-- 🔥 提交活跃时间段 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suru-z&theme=vue&utcOffset=8" />
+
+  <!-- 📈 连续活跃天数 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suru-z&theme=vue&hide_border=true" />
+
+</p>
+
 
 ---
