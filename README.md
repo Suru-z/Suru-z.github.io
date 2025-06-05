@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F79600&center=true&vCenter=true&width=800&lines=你好%EF%BC%8C欢迎访问我的GitHub主页~" alt="Typing SVG" />
-</p>
 
 # Suru-z.github.io
 
