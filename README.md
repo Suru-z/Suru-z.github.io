@@ -6,8 +6,7 @@
 ## 🚀 关于我
 - 🎓 AI专业在读
 - 💻 正在学习：人工智能应用开发
-- ✨ 兴趣方向：多模态，计算机视觉，大模型
-
+- ✨ 兴趣方向：mllm，computer vision，llm
 ## 📫 联系方式
 - Email: clerkjue@gmail.com
 
@@ -26,7 +25,7 @@
 
   <br><br>
 
-  <!-- 💡 总体活动统计卡片（清新主题） -->
+  <!-- 💡 总体活动统计卡片 -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suru-z&theme=vue" />
 
   <!-- 🔥 提交活跃时间段 -->
